@@ -4,8 +4,16 @@
     <TargetFramework>net10.0</TargetFramework>
     <AssemblyName>DecorFlex</AssemblyName>
     <RootNamespace>DecorFlex</RootNamespace>
-    <Nullable>enable</Nullable>
-    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <ApplicationId>com.companyname.decorflex</ApplicationId>
+    <ApplicationTitle>DecorFlex</ApplicationTitle>
+    <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+    <ApplicationVersion>1</ApplicationVersion>
+    <AndroidSupportedAbis>arm64-v8a</AndroidSupportedAbis>
+    <CSharpShellApkUseDebugKey>True</CSharpShellApkUseDebugKey>
+    <CSharpShellApkCrashReports>True</CSharpShellApkCrashReports>
+    <CSharpShellApkSignatureSchemes>V2, V3</CSharpShellApkSignatureSchemes>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Engine">
