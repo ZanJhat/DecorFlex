@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <AssemblyName>DecorFlex</AssemblyName>
+    <RootNamespace>DecorFlex</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Engine">
+      <HintPath>/storage/emulated/0/Download/.SC2-Mod 🔰/References/API/SC2 v2.4 API 1.9.3.1/Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="EntitySystem">
+      <HintPath>/storage/emulated/0/Download/.SC2-Mod 🔰/References/API/SC2 v2.4 API 1.9.3.1/EntitySystem.dll</HintPath>
+    </Reference>
+    <Reference Include="Survivalcraft">
+      <HintPath>/storage/emulated/0/Download/.SC2-Mod 🔰/References/API/SC2 v2.4 API 1.9.3.1/Survivalcraft.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

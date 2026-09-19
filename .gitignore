@@ -1,0 +1,24 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+*.nupkg
+packages/
+.packages/
+
+# C# Shell IDE state — per-project databases and IDE metadata, not source
+*.csproj.db
+*.csharpshellideproj.db
+.csharpshell/
+
+# Editors
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
